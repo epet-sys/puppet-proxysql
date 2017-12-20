@@ -1,5 +1,13 @@
 # Changelog
 
+## 2017-12-20 Release 2.0.0
+* Added support for Yum based distribution
+* Added Ubuntu as supported OS
+* fix issue with forcing servers to be "ONLINE"
+* fix issue with changing admin credentials
+* change default value for transaction_persistent
+* bump puppet versions and various modulesync updates
+
 ## 2017-02-12 Release 1.1.2
 * proper release procedure
 
